@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family:sans-serif;
+    font-size: 18px;
+    padding: 50px 100px 0px 100px;
+   
+}
+.half-width h1{
+    margin-bottom: 30px;
+    font-size: 48px;
+    margin-top: 100px;
+    
+
+}
+.miss{
+    color: rgba(145, 85, 201, 0.774);
+}
+.border{
+    border-left: 5px solid red;
+    border-radius: 5px;
+}
+p{
+    margin-bottom: 16px;
+}
+.explore{
+    background-color: rgb(170, 60, 243);
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-bottom: 50px;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 50%;
+    
+}
+.half-width img{
+    width: 85%;
+}
+.mission-heading{
+    text-align: center;
+    padding: 25px;
+    font-size: 40px;
+}
+.year{
+    color: rgba(145, 85, 201, 0.774);
+}
+
+
+.mission-item{
+    margin-right: 15px;
+    padding: 20px;
+    background-color: rgba(57, 35, 153, 0.473);
+    border-radius: 18px;
+}
+.mission-item h1{
+    margin-bottom: 18px;
+}
+.mission img{
+    width: 150px;
+    
+}
+#mission{
+    background-color: rgba(170, 60, 243, 0.541);
+}
+#vission{
+background-color: rgba(118, 83, 214, 0.575);
+}
+#goals{
+    background-color: rgba(30, 17, 88, 0.575);
+}
