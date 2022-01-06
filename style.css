@@ -28,7 +28,7 @@ p{
     margin-bottom: 16px;
 }
 .explore{
-    background-color: rgb(170, 60, 243);
+    background-color: rgba(162, 49, 238, 0.836);
     padding: 10px;
     color: white;
     font-size: 18px;
@@ -77,4 +77,12 @@ background-color: rgba(118, 83, 214, 0.575);
 }
 #goals{
     background-color: rgba(30, 17, 88, 0.575);
+}
+.doc{
+    background-color: rgba(162, 49, 238, 0.836);
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-bottom: 50px;
 }
