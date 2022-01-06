@@ -77,3 +77,19 @@ background-color: rgba(118, 83, 214, 0.575);
 #goals{
     background-color: rgba(30, 17, 88, 0.575);
 }
+.footer{
+    text-align: center;
+    background-color: #000000;
+    color: #fff;
+    padding: 60px;
+    
+}
+.footer h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer p{
+    font-size: 12px;
+}
+.foot{
+    color: #ec0000;
+}
